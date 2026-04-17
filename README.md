@@ -47,8 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
