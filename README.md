@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -55,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
+## Math
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
