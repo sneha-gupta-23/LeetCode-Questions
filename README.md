@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
