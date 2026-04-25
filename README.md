@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Interactive
 |  |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0077-combinations) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
