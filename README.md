@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## String
 |  |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
