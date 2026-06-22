@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Bit Manipulation
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
