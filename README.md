@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
