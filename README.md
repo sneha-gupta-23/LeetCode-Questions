@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
