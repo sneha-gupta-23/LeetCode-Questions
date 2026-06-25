@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
