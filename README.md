@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2611-mice-and-cheese](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/2611-mice-and-cheese) |
 ## Sorting
 |  |
 | ------- |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2611-mice-and-cheese](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/2611-mice-and-cheese) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2611-mice-and-cheese](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/2611-mice-and-cheese) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0134-gas-station) |
+| [2611-mice-and-cheese](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/2611-mice-and-cheese) |
 ## Backtracking
 |  |
 | ------- |
