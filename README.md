@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1094-car-pooling) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
