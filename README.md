@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [2611-mice-and-cheese](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/2611-mice-and-cheese) |
 ## Backtracking
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0410-split-array-largest-sum](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [1094-car-pooling](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1094-car-pooling) |
 ## Linked List
 |  |
