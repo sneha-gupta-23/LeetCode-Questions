@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
 | [1094-car-pooling](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1094-car-pooling) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
