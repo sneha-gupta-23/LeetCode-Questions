@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -220,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
