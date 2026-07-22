@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
