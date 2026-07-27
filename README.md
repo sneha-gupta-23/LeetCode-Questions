@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0888-fair-candy-swap) |
+| [0994-rotting-oranges](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1094-car-pooling) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/1539-kth-missing-positive-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
