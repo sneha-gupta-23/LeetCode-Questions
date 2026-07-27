@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0684-redundant-connection) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,13 +231,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
