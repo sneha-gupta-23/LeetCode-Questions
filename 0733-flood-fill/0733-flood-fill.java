@@ -1,25 +1,49 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int n = image.length;
+        int m = image[0].length;
+
         int oldColor = image[sr][sc];
 
-        if(oldColor == color) return image;
+        if (oldColor == color)
+            return image;
 
-        dfs(image, sr, sc, oldColor, color);
+        Queue<int[]> q = new LinkedList<>();
+
+        q.offer(new int[]{sr, sc});
+        image[sr][sc] = color;
+
+        while (!q.isEmpty()) {
+            int[] curr = q.poll();
+
+            int i = curr[0];
+            int j = curr[1];
+
+            // UP
+            if (i - 1 >= 0 && image[i - 1][j] == oldColor) {
+                image[i - 1][j] = color;
+                q.offer(new int[]{i - 1, j});
+            }
+
+            // DOWN
+            if (i + 1 < n && image[i + 1][j] == oldColor) {
+                image[i + 1][j] = color;
+                q.offer(new int[]{i + 1, j});
+            }
+
+            // LEFT
+            if (j - 1 >= 0 && image[i][j - 1] == oldColor) {
+                image[i][j - 1] = color;
+                q.offer(new int[]{i, j - 1});
+            }
+
+            // RIGHT
+            if (j + 1 < m && image[i][j + 1] == oldColor) {
+                image[i][j + 1] = color;
+                q.offer(new int[]{i, j + 1});
+            }
+        }
 
         return image;
-    }
-
-    public void dfs(int[][] image, int r, int c, int oldColor, int newColor){
-        if(r < 0 || c < 0 || r >= image.length || c >= image[0].length)
-            return;
-
-        if(image[r][c] != oldColor) return;
-
-        image[r][c] = newColor;
-
-        dfs(image, r-1, c, oldColor, newColor);
-        dfs(image, r+1, c, oldColor, newColor);
-        dfs(image, r, c-1, oldColor, newColor);
-        dfs(image, r, c+1, oldColor, newColor);
     }
 }
