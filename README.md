@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,15 +237,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
