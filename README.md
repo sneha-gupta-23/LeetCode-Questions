@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sneha-gupta-23/LeetCode-Questions/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
